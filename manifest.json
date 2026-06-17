@@ -1,0 +1,12 @@
+{
+    "display_name": "NPC Bank",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Arif-salah (extracted from Megumin-Suite)",
+    "version": "1.0.0",
+    "homePage": "https://github.com/Arif-salah/Megumin-Suite",
+    "auto_update": false
+}
